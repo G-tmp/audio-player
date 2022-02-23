@@ -1,6 +1,17 @@
 # audio-player
 
+multi-thread programming practice
+
+
+
+## build with
+
 * swing
-* multi-threading
 * jlayer decode mp3 file
-* only supports play mp3 
+* only support few audio formats 
+
+
+
+## Reference
+
+* [JLayer - Pause and resume song](https://stackoverflow.com/questions/12057214/jlayer-pause-and-resume-song)
